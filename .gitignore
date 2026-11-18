@@ -1,0 +1,6 @@
+# Claude session transcripts (원본, 개인정보 포함)
+sessions/
+.venv/
+build/
+__pycache__/
+.DS_Store
